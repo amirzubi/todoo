@@ -172,6 +172,10 @@ form button:hover {
   font-weight: 500;
 }
 
+.filter option:last-of-type {
+  margin-right: 0px;
+}
+
 .filter option:active,
 .filter option:hover,
 .filter option:checked,
