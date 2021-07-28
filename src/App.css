@@ -190,10 +190,6 @@ form button:hover {
   color: var(--blue);
 }
 
-option[selected] {
-  color: var(--blue);
-}
-
 /* Transition */
 .option:hover::after {
   transform: scale(1.5);
