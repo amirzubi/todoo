@@ -29,6 +29,12 @@ body {
   min-height: 100vh;
 }
 
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 35px;
+}
+
 header {
   font-size: 2rem;
   padding: 10px 50px;
@@ -170,6 +176,7 @@ form button:hover {
   display: inline-block;
   margin-right: 20px;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .filter option:last-of-type {
@@ -190,6 +197,13 @@ option[selected] {
 /* Transition */
 .option:hover::after {
   transform: scale(1.5);
+}
+.no-tasks {
+  text-align: center;
+}
+.no-tasks img {
+  width: 60%;
+  height: auto;
 }
 
 @media only screen and (max-width: 768px) {
@@ -223,5 +237,9 @@ option[selected] {
 
   .todo-item {
     font-size: 18px;
+  }
+
+  .no-tasks img {
+    width: 100%;
   }
 }

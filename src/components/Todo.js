@@ -1,5 +1,3 @@
-import TodoList from "./TodoList";
-
 const Todo = ({ text, todo, todos, setTodos }) => {
   // Events
   // Delete Todo
