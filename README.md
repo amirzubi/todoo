@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/amirzubi/todoo?color=00ae99)
+
 # todoo — A simple overview of your tasks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
