@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Demo
+
+You can check a demo of the web application under the following URL: https://todoo.pazu.ch/
+
 ## References
 
 The app was created with the help of a tutorial from [developedbyed](https://github.com/developedbyed).
