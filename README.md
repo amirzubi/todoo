@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ## References
 
-The app was created with the help of a tutorial from [https://github.com/developedbyed](developedbyed).
+The app was created with the help of a tutorial from [developedbyed](https://github.com/developedbyed).
